@@ -2,7 +2,7 @@ from entidad.vehiculo import Vehiculo
 from entidad.chofer import Chofer
 from entidad.registro import RegistroControl, GestionRegistros # Importamos la nueva clase
 
-# Creamos una única instancia del gesto
+# Creamos una única instancia del gestor
 gestor = GestionRegistros()
 
 def menu():
